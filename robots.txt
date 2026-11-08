@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zeckascencio.github.io/Neurod-tia/sitemap.xml

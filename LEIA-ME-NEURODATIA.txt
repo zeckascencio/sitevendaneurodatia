@@ -1,0 +1,12 @@
+NEURODATIA — SITE BOOKLY FIEL / COMERCIAL
+
+1. Conteúdo visual usa a estrutura, CSS original, tipografia e paleta do Bookly.
+2. Logo oficial: images/neurodatia-logo-oficial.jpg
+3. Antes de publicar: preencha window.NEURODATIA_EMAIL em config-comercial.js. Sem e-mail configurado, o formulário apenas copia a mensagem localmente.
+4. Privacidade: o ZIP não inclui privacidade.html nem termos.html; preserve esses arquivos do repositório existente e revise a adequação ao funcionamento real.
+5. Crie um endereço de pagamento real apenas após validar os recursos, condições e o fluxo de liberação de acesso. Esta versão é de captação e proposta.
+6. Envie todos os arquivos e pastas do ZIP para a raiz do GitHub Pages. Preserve arquivos de verificação do domínio.
+7. SEO: títulos, descrição, estrutura semântica, canonical, OG, schema software sem preços inventados, sitemap e robots.txt. Cadastre a propriedade no Google Search Console.
+8. License: preserve crédito visível a TemplatesJungle. Fonte: readme.txt original.
+9. Componentes em CDN (Bootstrap, Swiper, fonts) exigem internet.
+10. Não há depoimentos, preços ou resultados inventados.
